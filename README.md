@@ -13,9 +13,9 @@ A ball and plate system is an example that allows testing, and control of artifi
 
 ### II. Modeling
 The figure below shows a simplified model of the the ball and plate system where:
-%m=mass of the ball
-h=height of the motor arm
-r_arm=radius of the motor arm
+  m=mass of the ball
+  h=height of the motor arm
+  r_arm=radius of the motor arm
 r=radius of the ball
 L=length of the plate
 𝛼=angle of the plate
