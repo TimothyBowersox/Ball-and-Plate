@@ -21,6 +21,8 @@ A ball and plate system is an example that allows testing, and control of artifi
 
 ### VI. Appendix A: Simulation Code
 
+### VII. References
+
 #### Example:
 
 [1]. author name, " title of journal or article", publisher, vol. , num. , 2021, [Online] Avialable: , [Accessed: May 23, 2021]. 
