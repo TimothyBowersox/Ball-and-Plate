@@ -23,8 +23,11 @@ r_arm=radius of the motor arm
 r=radius of the ball
 
 L=length of the plate
+
 𝛼=angle of the plate
+
 θ=angle of the motor arm
+
 J=moment of inertia of the ball
 ![image](https://user-images.githubusercontent.com/83930164/119275780-d7e81b00-bbcb-11eb-8777-ae1a42d760dd.png)
 
