@@ -45,6 +45,4 @@ A nonlinear equation of motion is derived from the figure above and can be seen 
 
 ### VII. References
 
-#### Example:
-
-[1]. author name, " title of journal or article", publisher, vol. , num. , 2021, [Online] Avialable: , [Accessed: May 23, 2021]. 
+[1]. 
