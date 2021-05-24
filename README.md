@@ -38,6 +38,10 @@ A nonlinear equation of motion is derived from the figure above and can be seen 
 ### III. Sensor Calibration
 
 ### IV. Controller Design and Simulation
+Control system block diagram model can be seen below in fig. 1: Block Diagram. Two system models show each controlling x-axis, and y-axis. 
+![image](https://user-images.githubusercontent.com/83930919/119284179-eba77780-bbf3-11eb-980b-37c9ee95ed39.png)
+   Fig. 1: Block Diagram.
+
 
 ### V. Simulation Results
 
