@@ -44,6 +44,9 @@ Equation 1 shows a nonlinear equation of motion that is derived from Fig. 1: Bal
 ![eq](https://user-images.githubusercontent.com/83930164/119277033-34e6cf80-bbd2-11eb-9917-9041d22ea9aa.JPG)
 
 ### III. Sensor Calibration
+<img width="1288" alt="Screen Shot 2021-05-23 at 9 12 38 PM" src="https://user-images.githubusercontent.com/83930770/119295428-aee77a80-bc0b-11eb-9315-0cd2d5aeb999.png">
+
+In the controller architecture below, the outer loop is used to covert the position to angular. The angular position is sent to the inner loop, which controls the postion of the servo motors. Pbb(s), at the end, is the ballplate that is connect to the servo motors. Xd(s) would be the input, which would be the balls postion.
 
 ### IV. Controller Design and Simulation
 Control system block diagram model can be seen below in Fig. 2: Block Diagram. Two system models show each controlling x-axis, and y-axis. 
