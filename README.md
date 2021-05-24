@@ -1,4 +1,4 @@
-# Ball and Plate
+# Ball-and-Plate
 California State University of Chico-MECA 482-Spring 2021
 
 ## Team Members 
