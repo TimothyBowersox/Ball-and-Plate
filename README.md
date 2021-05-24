@@ -19,6 +19,8 @@ The figure below shows a simplified model of the the ball and plate system where
 
 m=mass of the ball
 
+g=gravity
+
 h=height of the motor arm
 
 r_arm=radius of the motor arm
