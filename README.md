@@ -67,6 +67,8 @@ Figure 3: Ball and plate simulation
 
 ### VI. Appendix A: Simulation Code
 
+The below figures show the code for connecting matlab/simulink to copelliasim.
+
 ![image](https://user-images.githubusercontent.com/83930164/119306942-c7fa2680-bc1f-11eb-9498-bfbb64d6589e.png)
 
 ![image](https://user-images.githubusercontent.com/83930164/119307003-dcd6ba00-bc1f-11eb-9a5a-d4bb2167f9be.png)
