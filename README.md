@@ -1,5 +1,6 @@
 # Ball-and-Plate
-![image](https://user-images.githubusercontent.com/83930919/119288861-4c3bb200-bbfe-11eb-9b98-8bc29e5067f3.png)
+![image](https://user-images.githubusercontent.com/83930919/119289709-f49e4600-bbff-11eb-81b1-17ced274bc42.png)
+
 
 California State University of Chico-MECA 482-Spring 2021
 
