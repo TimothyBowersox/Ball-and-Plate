@@ -61,6 +61,8 @@ Coppelia is used to perform the systems simulation. The code for Coppelia commun
 
 ![image](https://user-images.githubusercontent.com/83930164/119297569-19021e80-bc10-11eb-93f7-e3f8808cffb6.png)
 
+![image](https://github.com/Pkim10-csuchico/Ball-and-Plate/blob/main/ballandplate1.png)
+
 Figure 3: Ball and plate simulation
 
 ### VI. Appendix A: Simulation Code
