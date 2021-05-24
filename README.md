@@ -35,7 +35,7 @@ J=moment of inertia of the ball
 
   Fig. 1: Ball and Plate Model 
 
-A nonlinear equation of motion is derived from the Fig. 1: Ball and Plate Model, above. The equation, seen below uses the geometry of the motor, and the plate. Equation 2, and 3 are derrived to find 𝛼 and θ. Substituting equations 2, and 3 into equation 1 yields equation 4. Taking a small angle approximation, seen in equation 5, and the taking the laplace transform, seen in equation 6, the final transfer function of one motor is found, below in equation 7. 
+A nonlinear equation of motion is derived from Fig. 1: Ball and Plate Model, above. The equation, seen below uses the geometry of the motor, and the plate. Equation 2, and 3 are derrived to find 𝛼 and θ. Substituting equations 2, and 3 into equation 1 yields equation 4. Taking a small angle approximation, seen in equation 5, and the taking the laplace transform, seen in equation 6, the final transfer function of one motor is found, below in equation 7. 
 
 ![eq](https://user-images.githubusercontent.com/83930164/119277033-34e6cf80-bbd2-11eb-9917-9041d22ea9aa.JPG)
 
