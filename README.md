@@ -9,10 +9,10 @@ Paige Kim,
 Frank Silva,
 
 ### I. Introduction
-A ball and plate system is an example that allows testing, and control of artificial intelligence algorithms. Two stepper motors controlling the angle of a plate. Each stepper motor will be used for the x axis, and y axis of plate motion. Adjustment of the plate position in order to control ball orientation, keeping it balanced on top of the plate is the goal. A controller for the ball-and-plate system will be designed, mathematical model analysis performed, and a simulation using MATLAB/Simulink for the ball and plate system. 
+A ball and plate system is an example that allows for testing, and control of artificial intelligence algorithms. Two stepper motors control the angle of a plate. Each stepper motor will control the x axis, and y axis of plate motion. Adjustment of the plate position in order to control ball orientation, keeping it balanced on top of the plate is the goal. A controller for the ball and plate system will be designed, mathematical model analysis performed, and a simulation using MATLAB/Simulink for the ball and plate system. 
 
 ### II. Modeling
-The figure below shows a simplified model of the the ball and plate system where:
+The figure below shows a simplified model of the the ball and plate system parameters:
 
 m=mass of the ball
 
@@ -33,7 +33,7 @@ J=moment of inertia of the ball
 
   Fig. 1: Ball and Plate Model 
 
-A nonlinear equation of motion is derived from the Fig. 1: Ball and Plate Model, above and can be seen below in equation 1. Using the geometry of the motor and the plate, equation 2 and 3 are derrived to find 𝛼 and θ. Substituting equations 2 and 3 into equation 1 yields equation 4. Taking a small angle approximation, seen in equation 5, and the taking the laplace transform, seen in equation 6, the final transfer function of one motor is found, seen in equation 7. 
+A nonlinear equation of motion is derived from the Fig. 1: Ball and Plate Model, above. The equation, seen below uses the geometry of the motor, and the plate. Equation 2, and 3 are derrived to find 𝛼 and θ. Substituting equations 2, and 3 into equation 1 yields equation 4. Taking a small angle approximation, seen in equation 5, and the taking the laplace transform, seen in equation 6, the final transfer function of one motor is found, below in equation 7. 
 
 ![eq](https://user-images.githubusercontent.com/83930164/119277033-34e6cf80-bbd2-11eb-9917-9041d22ea9aa.JPG)
 
