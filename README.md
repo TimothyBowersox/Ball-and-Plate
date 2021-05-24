@@ -71,10 +71,5 @@ The below figures show the code for connecting matlab/simulink to copelliasim.
 
 ![image](https://user-images.githubusercontent.com/83930164/119306942-c7fa2680-bc1f-11eb-9498-bfbb64d6589e.png)
 
-![image](https://user-images.githubusercontent.com/83930164/119307003-dcd6ba00-bc1f-11eb-9a5a-d4bb2167f9be.png)
+![image](https://user-images.githubusercontent.com/83930164/119308294-b285fc00-bc21-11eb-9041-446e90f06e62.png)
 
-![image](https://user-images.githubusercontent.com/83930164/119307028-e3fdc800-bc1f-11eb-885a-45d1a8869545.png)
-
-![image](https://user-images.githubusercontent.com/83930164/119307064-f0822080-bc1f-11eb-97cc-f92193ef87a7.png)
-
-![image](https://user-images.githubusercontent.com/83930164/119307082-f972f200-bc1f-11eb-95e7-5fa2d41a2a7a.png)
