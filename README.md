@@ -1,4 +1,6 @@
 # Ball-and-Plate
+![image](https://user-images.githubusercontent.com/83930919/119288861-4c3bb200-bbfe-11eb-9b98-8bc29e5067f3.png)
+
 California State University of Chico-MECA 482-Spring 2021
 
 ## Team Members 
