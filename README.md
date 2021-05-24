@@ -82,4 +82,3 @@ zeta=
 Y(s)/R(s) = omega^2/(s^2+2*zeta*omega*s+omega^2)
 
 
-[1]. 
