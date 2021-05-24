@@ -54,6 +54,7 @@ Control system block diagram model can be seen below in Fig. 2: Block Diagram. T
 
 
 ### V. Simulation Results
+Coppelia is used to perform the the system simulation. The code for Coppelia communicates with Matlab to run the simulation. 
 
 ### VI. Appendix A: Simulation Code
 
