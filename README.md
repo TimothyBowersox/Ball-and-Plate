@@ -37,7 +37,7 @@ J=moment of inertia of the ball
 
 ![image](https://user-images.githubusercontent.com/83930164/119293877-2a472d00-bc08-11eb-916d-20e197d3332e.png)
 
-  Fig. 1: Ball and Plate Model 
+  Figure 1: Ball and Plate Model 
 
 Equation 1 shows a nonlinear equation of motion that is derived from Fig. 1: Ball and Plate Model, above. Using the geometry of the motor and the plate, Equation 2 and 3 are derrived to find 𝛼 and θ. Substituting equations 2, and 3 into equation 1 yields equation 4. Taking a small angle approximation, seen in equation 5, and the laplace transform, seen in equation 6, the final transfer function of one motor is found, seen below in equation 7. 
 
@@ -53,13 +53,15 @@ Control system block diagram model can be seen below in Fig. 2: Block Diagram. T
 
 ![image](https://user-images.githubusercontent.com/83930919/119284179-eba77780-bbf3-11eb-980b-37c9ee95ed39.png)
 
-  Fig. 2: Block Diagram.
+  Figure 2: Block Diagram.
 
 
 ### V. Simulation Results
-Coppelia is used to perform the the system simulation. The code for Coppelia communicates with Matlab to run the simulation. 
+Coppelia is used to perform the systems simulation. The code for Coppelia communicates with Matlab to run the simulation. 
 
 ![image](https://user-images.githubusercontent.com/83930164/119297569-19021e80-bc10-11eb-93f7-e3f8808cffb6.png)
+
+Figure 3: Ball and plate simulation
 
 ### VI. Appendix A: Simulation Code
 
