@@ -31,6 +31,7 @@ L=length of the plate
 θ=angle of the motor arm
 
 J=moment of inertia of the ball
+
 ![image](https://user-images.githubusercontent.com/83930164/119275780-d7e81b00-bbcb-11eb-8777-ae1a42d760dd.png)
 
   Fig. 1: Ball and Plate Model 
@@ -43,6 +44,7 @@ A nonlinear equation of motion is derived from Fig. 1: Ball and Plate Model, abo
 
 ### IV. Controller Design and Simulation
 Control system block diagram model can be seen below in Fig. 2: Block Diagram. Two system models show each controlling x-axis, and y-axis. 
+
 ![image](https://user-images.githubusercontent.com/83930919/119284179-eba77780-bbf3-11eb-980b-37c9ee95ed39.png)
 
   Fig. 2: Block Diagram.
